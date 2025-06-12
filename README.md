@@ -1,5 +1,7 @@
 # Venda Mecânica
 
+https://abc123.ngrok-free.app  <<<<--------------------------------
+
 Sistema web para gerenciamento de clientes, veículos, vendedores e vendas de uma oficina mecânica.  
 Desenvolvido com **Laravel (backend)**, **React (frontend)** e **MySQL**.
 
